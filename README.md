@@ -42,7 +42,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
       PHP (Level of confidence 2/5)
       
 
-* This webpage does not actually trade in cryptos, this is just a test page that with enouth modifications it could do 
+CryptoKing webpage does not actually trade in cryptos, this is just a test page that with enouth modifications it could do 
 it. This was just a template to create a web page to experiment with.
 
 <!---
