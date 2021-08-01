@@ -41,6 +41,16 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 - CSS (Level of confidence 3.5/5)
 - PHP (Level of confidence 2/5)
       
+ Data Analytics:
+- R (Level of confidence 4.5/5)
+
+<h3>What other fields of IT are you proficient with?</h3>
+
+System management:
+- Windows client (7/10) (Level of confidence 4.5/5)
+- Unix client (Ubuntu,Kde,Kubuntu) (Level of confidence 4.5/5)
+- Windows Server (2003/2014/2016) (Level of confidence 3.5/5)
+- Unix Server (Ubuntu) (Level of confidence 2/5)
 
 Warning: CryptoKing webpage does not actually trade in cryptos, this is just a test page that with enouth modifications it could do 
 it. This was just a template to create a web page to experiment with.
