@@ -22,6 +22,11 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 - JavaFX (https://openjfx.io/)
 - JsonToJava (https://cliftonlabs.github.io/json-simple/)
  
+ C: (Level of confidence 4/5)
+- C
+- C Data Containers (https://www.cprogramming.com/algorithms-and-data-structures.html)
+- C Algorithm
+ 
  C++: (Level of confidence 4.5/5)
 - C++
 - C++ Data Containers (https://www.cplusplus.com/reference/stl/)
