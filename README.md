@@ -4,14 +4,14 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h3>What am I currently working on?</h3>
  
- I'm working on a test webpage called CryptoKing, whitch is just a dummy platform idea to build. It's an online trade web
- witch different users can login can buy/sell cryptos or exchange cryptos between users. 
+ I'm working on a java experimental program called DatabaseX, it's a heavy modular program that recreates a database management system and includes custom made cacheing systems, dynamic load of tables and dynamic store of tables. You can find more info about it and progress tracking in the repository.
  
 <h3>Where can I see your progress?</h3>
  
  In my github repository there are multiple folders named after the projects, I currently have:
  - CryptoKing (Webpage for trading cryptos, HTML+CSS+SQL+PHP)
  - Monopoly (Text based recreation of the board game Monopoly, Java+JsonToJava)
+ - DatabaseX (Java experiment program that recreates a database and internal cacheing of tables)
  
 <h3>Witch languages have you worked with and what technologies did you use?</h3>
  
