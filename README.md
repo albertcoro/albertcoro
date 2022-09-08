@@ -41,10 +41,22 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 - Mysql (Level of confidence 5/5)
 - PHPMyAdmin (Level of confidence 3/5)
  
- Web:
+ Web Languages:
 - HTML (Level of confidence 4.5/5)
-- CSS (Level of confidence 3.5/5)
-- PHP (Level of confidence 2/5)
+- CSS (Level of confidence 4.5/5)
+- PHP (Level of confidence 5/5)
+- Javascript (Level of confidence 5/5)
+
+ Web Frameworks:
+- Laravel (Level of confidence 5/5)
+- Typescript (Level of confidence 3/5)
+- Tailwind (Level of confidence 4.5/5)
+- PHP Blades (Level of confidence 4.5/5)
+- React (Level of confidence 4.5/5)
+- Angular (Level of confidence 3.5/5)
+
+ ORMs:
+- Primsa (Level of confidence 5/5)
       
  Data Analytics:
 - R (Level of confidence 4.5/5)
@@ -56,9 +68,6 @@ System management:
 - Unix client (Ubuntu,Kde,Kubuntu) (Level of confidence 4.5/5)
 - Windows Server (2003/2014/2016) (Level of confidence 3.5/5)
 - Unix Server (Ubuntu) (Level of confidence 2/5)
-
-Warning: CryptoKing webpage does not actually trade in cryptos, this is just a test page that with enouth modifications it could do 
-it. This was just a template to create a web page to experiment with.
 
 <!---
 albertcoro/albertcoro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
