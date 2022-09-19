@@ -12,7 +12,8 @@ albertcorominasmariscot@gmail.com. Thank you ✨
  - CryptoKing (Webpage for trading cryptos, HTML+CSS+SQL+PHP)
  - Monopoly (Text based recreation of the board game Monopoly, Java+JsonToJava)
  - DatabaseX (Java experiment program that recreates a database and internal cacheing of tables)
- 
+ - Dnd (Laravel based web app to create dnd characters and save them)
+
 <h3>Witch languages have you worked with and what technologies did you use?</h3>
  
  Java: (Level of confidence 4.5/5)
