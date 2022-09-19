@@ -4,7 +4,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h3>What am I currently working on?</h3>
  
- I'm working on a java experimental program called DatabaseX, it's a heavy modular program that recreates a database management system and includes custom made cacheing systems, dynamic load of tables and dynamic store of tables. You can find more info about it and progress tracking in the repository.
+ I'm currently working on a web app that allows any user to create and walk through the experience of creating a DnD character. You can keep track of my progress and comment on <a href="https://github.com/albertcoro/dnd"> my repository</a>. 
  
 <h3>Where can I see your progress?</h3>
  
