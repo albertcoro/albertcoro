@@ -1,5 +1,5 @@
 Hi, I'm @albertcoro. I'm a software engineer currently studing at UDG (Universitat de Girona), in this repository I will
-upload my latest projects and software creations. I'm currently working @bisual, for bussiness inqueries contact me at
+upload my latest projects and software creations. I'm currently working <a href="https://github.com/albertcoro/dnd"> @bisual</a>, for bussiness inqueries contact me at
 albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h3>What am I currently working on?</h3>
@@ -48,13 +48,14 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 - PHP (Level of confidence 5/5)
 - Javascript (Level of confidence 5/5)
 
- Web Frameworks:
+ Web Frameworks and tools:
 - Laravel (Level of confidence 5/5)
 - Typescript (Level of confidence 3/5)
 - Tailwind (Level of confidence 4.5/5)
 - PHP Blades (Level of confidence 4.5/5)
 - React (Level of confidence 4.5/5)
 - Angular (Level of confidence 3.5/5)
+- Flutter (Level of confidence 3.5/5)
 
  ORMs:
 - Primsa (Level of confidence 5/5)
