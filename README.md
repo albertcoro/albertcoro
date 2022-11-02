@@ -1,5 +1,5 @@
 Hi, I'm @albertcoro. I'm a software engineer currently studing at UDG (Universitat de Girona), in this repository I will
-upload my latest projects and software creations. I'm currently working <a href="https://github.com/albertcoro/dnd"> @bisual</a>, for bussiness inqueries contact me at
+upload my latest projects and software creations. I'm currently working <a href="https://github.com/bisual"> @bisual</a>, for bussiness inqueries contact me at
 albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h3>What am I currently working on?</h3>
