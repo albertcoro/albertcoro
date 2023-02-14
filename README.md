@@ -1,6 +1,6 @@
-Hi, I'm @albertcoro. I'm a software engineer currently studing at UDG (Universitat de Girona), in this repository I will
-upload my latest projects and software creations. For bussiness inqueries contact me at
-albertcorominasmariscot@gmail.com. Thank you ✨
+👋 Hi, I'm @albertcoro. <br>
+💻 I'm a software engineer currently studing at UDG (Universitat de Girona). 
+📧 For bussiness inqueries contact me at: albertcorominasmariscot@gmail.com. 
 
 <h3>What skills am I proficient in?</h3>
 
