@@ -6,8 +6,8 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h4>Web Development</h4>
 <div display="inline">
- <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px alt="React JS" title="React JS">
- <img src="https://i1.wp.com/www.titanui.com/wp-content/uploads/2013/11/30/Flat-AngularJS-Logo-PSD.png" height=100px weight=100px alt="Angular JS" title="Angular JS">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=100px weight=100px alt="React JS" title="React JS">
+ <img src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" height=100px weight=100px alt="Angular JS" title="Angular JS">
  <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height=100px weight=100px alt="Node JS" title="Node JS">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height=100px weight=100px alt="Laravel" title="Laravel">
  <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" height=100px weight=100px alt="JavaScript" title="JavaScript">
