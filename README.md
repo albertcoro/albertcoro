@@ -32,6 +32,13 @@
 </div>
 
 <h4>Other Skills</h4>
+<div display="inline">
+ <img src="https://user-images.githubusercontent.com/38464645/218831913-042a0777-7722-4875-8360-ee4d6ab32614.png" height=100px width=100px alt="Git" title="Git">
+ <img src="https://user-images.githubusercontent.com/38464645/218832199-feff3760-b9ae-4ec6-aab4-4719aebc7648.png" height=100px width=100px alt="AWS" title="AWS">
+ <img src="https://user-images.githubusercontent.com/38464645/218832317-41180728-c6db-4018-a6dd-195d2442d510.png" height=100px width=100px alt="Latex" title="Latex">
+ <img src="https://user-images.githubusercontent.com/38464645/218832391-8ea2e34f-50a5-45d2-83a5-5955663600b4.png" height=100px width=100px alt="YouTrack" title="YouTrack">
+ <img src="https://user-images.githubusercontent.com/38464645/218832493-ab5e9c19-4019-4beb-843a-a83601aed440.png" height=100px width=100px alt="Jira" title="Jira">
+</div>
 
 <h3>What am I currently working on?</h3>
  
