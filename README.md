@@ -4,7 +4,14 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h3>What skills am I proficient in?</h3>
 
-<img src="" height=50px weight=50px>
+<h4>Web Development</h4>
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=50px weight=50px>
+
+<h4>App Development</h4>
+
+<h4>Database Management</h4>
+
+<h4>Other Skills</h4>
 
 <h3>What am I currently working on?</h3>
  
