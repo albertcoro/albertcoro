@@ -14,6 +14,13 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 </div>
 
 <h4>App Development</h4>
+<div display="inline">
+ <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height=100px weight=100px alt="Java" title="Java">
+ <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height=100px weight=100px alt="" title="">
+ <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height=100px weight=100px alt="Node JS" title="Node JS">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height=100px weight=100px alt="Laravel" title="Laravel">
+ <img src="https://img.icons8.com/m_outlined/600/000000/sass.png" height=100px weight=100px alt="SASS" title="SASS">
+</div>
 
 <h4>Database Management</h4>
 
