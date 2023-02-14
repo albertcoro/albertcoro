@@ -10,8 +10,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height=100px weight=100px alt="Angular JS" title="Angular JS">
  <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height=100px weight=100px alt="Node JS" title="Node JS">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height=100px weight=100px alt="Laravel" title="Laravel">
- <img src="https://w7.pngwing.com/pngs/23/280/png-transparent-js-logo-logos-logos-and-brands-icon.png" height=100px weight=100px alt="JavaScript" title="JavaScript">
- <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" height=100px weight=100px alt="PHP" title="PHP">
+ <img src="https://img.icons8.com/m_outlined/600/000000/sass.png" height=100px weight=100px alt="SASS" title="SASS">
 </div>
 
 <h4>App Development</h4>
