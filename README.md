@@ -5,6 +5,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 <h3>What skills am I proficient in?</h3>
 
 <h4>Web Development</h4>
+<div display="inline">
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
@@ -12,6 +13,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
+</div>
 
 <h4>App Development</h4>
 
