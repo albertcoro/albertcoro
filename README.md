@@ -24,7 +24,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h4>Database Management</h4>
 <div display="inline">
- <img src="https://www.pngfind.com/pngs/m/74-744138_mysql-logo-png-mysql-transparent-png.png" height=100px width=100px alt="MySQL" title="MySQL">
+ <img src="https://user-images.githubusercontent.com/38464645/218829912-0b3f578d-7da5-49b8-8859-c9f886d4ca43.png" height=100px width=100px alt="MySQL" title="MySQL">
  <img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png" height=100px width=100px alt="PostgreSQL" title="PostgreSQL">
  <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" height=100px width=100px alt="DBeaver" title="DBeaver">
  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height=100px width=100px alt="Redis" title="Redis">
