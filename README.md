@@ -19,7 +19,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
  <img src="https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" height=100px width=100px alt="C++" title="C++">
  <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" height=100px width=100px alt="Flutter" title="Flutter">
  <img src="https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-11639606208newcm5th7y.png" height=100px width=100px alt="Python" title="Python">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReenaHW13DG0WIxuTpSsBc4h4WBYZE6YImSZkuP0JMiSlItWoR39lvgznbqoO58OnuCJg&usqp=CAU" height=100px width=100px alt="R Language" title="R Language">
+ <img src="https://image.pngaaa.com/764/1525764-middle.png" height=100px width=100px alt="R Language" title="R Language">
 </div>
 
 <h4>Database Management</h4>
