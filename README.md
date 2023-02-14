@@ -6,6 +6,12 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 
 <h4>Web Development</h4>
 <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
+<img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px>
 
 <h4>App Development</h4>
 
