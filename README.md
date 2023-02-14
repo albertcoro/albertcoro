@@ -25,10 +25,10 @@ albertcorominasmariscot@gmail.com. Thank you ✨
 <h4>Database Management</h4>
 <div display="inline">
  <img src="https://user-images.githubusercontent.com/38464645/218829912-0b3f578d-7da5-49b8-8859-c9f886d4ca43.png" height=100px width=100px alt="MySQL" title="MySQL">
- <img src="https://w7.pngwing.com/pngs/396/90/png-transparent-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue-mammal.png" height=100px width=100px alt="PostgreSQL" title="PostgreSQL">
- <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" height=100px width=100px alt="DBeaver" title="DBeaver">
- <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height=100px width=100px alt="Redis" title="Redis">
- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" height=100px width=100px alt="MongoDB" title="MongoDB">
+ <img src="https://user-images.githubusercontent.com/77457592/126708532-644c7a01-3bbd-4a0c-acd3-f5bcc0523854.png" height=100px width=100px alt="PostgreSQL" title="PostgreSQL">
+ <img src="https://user-images.githubusercontent.com/38464645/218830152-a5b3df7d-61aa-4c49-8720-02e02726cf0f.png" height=100px width=100px alt="DBeaver" title="DBeaver">
+ <img src="https://user-images.githubusercontent.com/38464645/218830232-63f4da96-6397-4e46-a6a8-ee292ebe86ad.png" height=100px width=100px alt="Redis" title="Redis">
+ <img src="https://user-images.githubusercontent.com/38464645/218830343-1f04e3e6-f689-46bc-99a7-2aa426fe402d.png" height=100px width=100px alt="MongoDB" title="MongoDB">
 </div>
 
 <h4>Other Skills</h4>
