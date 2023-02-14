@@ -9,7 +9,7 @@ albertcorominasmariscot@gmail.com. Thank you ✨
  <img src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" height=100px weight=100px alt="React JS" title="React JS">
  <img src="https://i1.wp.com/www.titanui.com/wp-content/uploads/2013/11/30/Flat-AngularJS-Logo-PSD.png" height=100px weight=100px alt="Angular JS" title="Angular JS">
  <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height=100px weight=100px alt="Node JS" title="Node JS">
- <img src="https://miro.medium.com/max/1400/1*m0s2io11J82PR7miqan92w.png" height=100px weight=100px alt="Laravel" title="Laravel">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height=100px weight=100px alt="Laravel" title="Laravel">
  <img src="https://img.favpng.com/2/12/22/javascript-icon-png-favpng-ruDBDhxzVxWHgXXtH2Hi1XzJf.jpg" height=100px weight=100px alt="JavaScript" title="JavaScript">
  <img src="https://www.kindpng.com/picc/m/11-118738_php-logo-png-circle-transparent-png.png" height=100px weight=100px alt="PHP" title="PHP">
 </div>
