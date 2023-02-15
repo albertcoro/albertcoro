@@ -1,6 +1,6 @@
 👋 Hi, I'm @albertcoro. <br>
 💻 Fullstack Web Developer. <br>
-📚 I'm a software engineer currently studing at UDG (Universitat de Girona). <br>
+📚 IT and Computing degree at UDG (Universitat de Girona). <br>
 📧 For bussiness inqueries contact me at: albertcorominasmariscot@gmail.com. <br>
 
 <h3>What skills am I proficient in?</h3>
