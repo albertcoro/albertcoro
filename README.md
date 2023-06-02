@@ -1,5 +1,5 @@
 👋 Hi, I'm @albertcoro. <br>
-💻 Fullstack Web Developer. <br>
+💻 Fullstack Web Developer. CERN techincal student. <br>
 📚 IT and Computing degree at UDG (Universitat de Girona). <br>
 📧 For bussiness inqueries contact me at: albertcorominasmariscot@gmail.com. <br>
 
