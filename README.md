@@ -40,7 +40,3 @@
  <img src="https://user-images.githubusercontent.com/38464645/218832391-8ea2e34f-50a5-45d2-83a5-5955663600b4.png" height=100px width=100px alt="YouTrack" title="YouTrack">
  <img src="https://user-images.githubusercontent.com/38464645/218832493-ab5e9c19-4019-4beb-843a-a83601aed440.png" height=100px width=100px alt="Jira" title="Jira">
 </div>
-
-<h3>What am I currently working on?</h3>
- 
- I'm currently working on a web app that allows any user to create and walk through the experience of creating a DnD character. You can keep track of my progress and comment on <a href="https://github.com/albertcoro/dnd"> my repository</a>. 
