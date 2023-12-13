@@ -31,6 +31,7 @@
  <img src="https://user-images.githubusercontent.com/38464645/218830152-a5b3df7d-61aa-4c49-8720-02e02726cf0f.png" height=100px width=100px alt="DBeaver" title="DBeaver">
  <img src="https://user-images.githubusercontent.com/38464645/218830232-63f4da96-6397-4e46-a6a8-ee292ebe86ad.png" height=100px width=100px alt="Redis" title="Redis">
  <img src="https://user-images.githubusercontent.com/38464645/218830528-4c62f485-f7b2-42da-a180-cfd4d6ea356c.png" height=100px width=100px alt="MongoDB" title="MongoDB">
+ <img src="https://user-images.githubusercontent.com/38464645/218830528-4c62f485-f7b2-42da-a180-cfd4d6ea356c.png" height=100px width=100px alt="Oracle" title="Oracle">
 </div>
 
 <h4>Other Skills</h4>
