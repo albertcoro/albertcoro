@@ -1,7 +1,7 @@
 👋 Hi, I'm @albertcoro <br>
-💻 Fullstack Web Programer and Database Developer at Nexus Geographics <br>
+💻 Fullstack Web Programer and Database Developer <br>
 📚 IT and Computing degree at UDG (Universitat de Girona) <br>
-⚛️ Currently working at CERN, as a Technical Student <br>
+⚛️ Currently working at Nexus Geographics, as a Fullstack Developer & Database Admin <br>
 📧 For bussiness inqueries contact me at: albertcorominasmariscot@gmail.com <br>
 
 <h3>What skills am I proficient in?</h3>
