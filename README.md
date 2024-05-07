@@ -1,6 +1,6 @@
 👋 Hi, I'm @albertcoro <br>
 💻 Fullstack Web Programer and Database Developer <br>
-📚 IT and Computing degree at UDG (Universitat de Girona) <br>
+📚 IT and Computing degree at <a href="https://www.udg.edu/ca/">UDG (Universitat de Girona)</a> <br>
 ⚛️ Currently working at <a href = "https://www.linkedin.com/company/nexus-geographics">Nexus Geographics</a>, as a Fullstack Developer & Database Admin <br>
 📧 For bussiness inqueries contact me at: albertcorominasmariscot@gmail.com <br>
 
