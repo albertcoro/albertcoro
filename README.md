@@ -6,12 +6,12 @@
 
 <h3>What skills am I proficient in?</h3>
 
-<h4>Web Development</h4>
-<div style="text-align:center;" display="inline">
- <img display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=100px width=110px alt="React JS" title="React JS">
- <img display="inline-block" src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height=100px width=100px alt="Angular JS" title="Angular JS">
- <img display="inline-block" src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height=100px width=100px alt="Node JS" title="Node JS">
- <img display="inline-block" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height=100px width=100px alt="Laravel" title="Laravel">
+<h4 style="text-align: center;">Web Development</h4>
+<div style="display: flex; justify-content: center;">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="100px" width="110px" alt="React JS" title="React JS">
+ <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height="100px" width="100px" alt="Angular JS" title="Angular JS">
+ <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height="100px" width="100px" alt="Node JS" title="Node JS">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height="100px" width="100px" alt="Laravel" title="Laravel">
 </div>
 
 <h4>App Development</h4>
