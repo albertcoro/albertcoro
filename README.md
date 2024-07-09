@@ -30,7 +30,7 @@
  <img src="https://user-images.githubusercontent.com/77457592/126708532-644c7a01-3bbd-4a0c-acd3-f5bcc0523854.png" height=100px width=100px alt="PostgreSQL" title="PostgreSQL">
  <img src="https://user-images.githubusercontent.com/38464645/218830152-a5b3df7d-61aa-4c49-8720-02e02726cf0f.png" height=100px width=100px alt="DBeaver" title="DBeaver">
  <img src="https://user-images.githubusercontent.com/38464645/218830232-63f4da96-6397-4e46-a6a8-ee292ebe86ad.png" height=100px width=100px alt="Redis" title="Redis">
- <img src="https://user-images.githubusercontent.com/38464645/218830528-4c62f485-f7b2-42da-a180-cfd4d6ea356c.png" height=100px width=100px alt="MongoDB" title="MongoDB">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz3PAEJZKEsqwwkY935c7AhS1dHKBx2HLOg&s" height=100px width=100px alt="MongoDB" title="MongoDB">
  <img src="https://1.bp.blogspot.com/-olEGUVAbDOg/YS_VDSoSMFI/AAAAAAAAL5k/avUIQTjd2dkflGsbVp8wxIueT8HhMklIgCLcBGAsYHQ/s0/oracle-db.png" height=100px width=100px alt="Oracle" title="Oracle">
 </div>
 
