@@ -12,7 +12,6 @@
  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height=100px width=100px alt="Angular JS" title="Angular JS">
  <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height=100px width=100px alt="Node JS" title="Node JS">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" height=100px width=100px alt="Laravel" title="Laravel">
- <img src="https://user-images.githubusercontent.com/38464645/218835681-86cbacb4-59af-465f-8bfe-ea0a4849eda1.png" height=100px width=100px alt="Meteor" title="Meteor">
 </div>
 
 <h4>App Development</h4>
