@@ -7,7 +7,7 @@
 <h3>What skills am I proficient in?</h3>
 
 <h4>Web Development</h4>
-<div class="center" display="inline">
+<div style="display: flex;justify-content: center;" display="inline">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height=100px width=110px alt="React JS" title="React JS">
  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height=100px width=100px alt="Angular JS" title="Angular JS">
  <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height=100px width=100px alt="Node JS" title="Node JS">
