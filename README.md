@@ -21,6 +21,7 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height=100px width=90px alt="C++" title="C++">
  <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" height=100px width=100px alt="Flutter" title="Flutter">
  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height=100px width=100px alt="Python" title="Python">
+ <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" height=100px width=100px alt="C#" title="C#">
 </div>
 
 <h4>Database Management</h4>
