@@ -21,17 +21,15 @@
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height=100px width=90px alt="C++" title="C++">
  <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" height=100px width=100px alt="Flutter" title="Flutter">
  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height=100px width=100px alt="Python" title="Python">
- <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-512.png" height=100px width=100px alt="R Language" title="R Language">
 </div>
 
 <h4>Database Management</h4>
 <div display="inline">
  <img src="https://user-images.githubusercontent.com/38464645/218829912-0b3f578d-7da5-49b8-8859-c9f886d4ca43.png" height=100px width=100px alt="MySQL" title="MySQL">
  <img src="https://user-images.githubusercontent.com/77457592/126708532-644c7a01-3bbd-4a0c-acd3-f5bcc0523854.png" height=100px width=100px alt="PostgreSQL" title="PostgreSQL">
- <img src="https://user-images.githubusercontent.com/38464645/218830152-a5b3df7d-61aa-4c49-8720-02e02726cf0f.png" height=100px width=100px alt="DBeaver" title="DBeaver">
  <img src="https://user-images.githubusercontent.com/38464645/218830232-63f4da96-6397-4e46-a6a8-ee292ebe86ad.png" height=100px width=100px alt="Redis" title="Redis">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCz3PAEJZKEsqwwkY935c7AhS1dHKBx2HLOg&s" height=100px width=100px alt="MongoDB" title="MongoDB">
- <img src="https://1.bp.blogspot.com/-olEGUVAbDOg/YS_VDSoSMFI/AAAAAAAAL5k/avUIQTjd2dkflGsbVp8wxIueT8HhMklIgCLcBGAsYHQ/s0/oracle-db.png" height=100px width=100px alt="Oracle" title="Oracle">
+ <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" height=100px width=100px alt="MongoDB" title="MongoDB">
+ <img src="https://cdn.freebiesupply.com/logos/large/2x/oracle-1-logo-png-transparent.png" height=100px width=100px alt="Oracle" title="Oracle">
 </div>
 
 <h4>Version/Project Control</h4>
@@ -43,6 +41,7 @@
  
 <h4>Other Skills</h4>
 <div display="inline">
- <img src="https://user-images.githubusercontent.com/38464645/218832199-feff3760-b9ae-4ec6-aab4-4719aebc7648.png" height=100px width=100px alt="AWS" title="AWS">
- <img src="https://github.com/albertcoro/albertcoro/assets/38464645/6dfa1b7b-9635-428b-acdb-2f253ff458cc.png" height=100px width=100px alt="Latex" title="Latex">
+ <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" height=100px width=100px alt="AWS" title="AWS">
+ <img src="https://w7.pngwing.com/pngs/380/11/png-transparent-latex-hd-logo.png" height=100px width=100px alt="Latex" title="Latex">
+ <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/leaflet-1-logo.png" height=100px width=100px alt="Leaflet" title="Leaflet">
 </div>
