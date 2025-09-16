@@ -6,7 +6,7 @@
 
 <h3>What skills am I proficient in?</h3>
 
-<h4>Web Development</h4>
+<h4>Frontend Development</h4>
 <div display="inline">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" height="70px" width="80px" alt="React JS" title="React JS">
  <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height="70px" width="70px" alt="Angular JS" title="Angular JS">
@@ -15,7 +15,7 @@
  <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" height="70px" width="70px" alt="Spring" title="Spring">
 </div>
 
-<h4>App Development</h4>
+<h4>Backend Development</h4>
 <div display="inline">
  <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height=70px width=70px alt="Java" title="Java">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" height=70px width=70px alt="C++" title="C++">
