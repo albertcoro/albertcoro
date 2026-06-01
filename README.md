@@ -1,7 +1,7 @@
 👋 Hi, I'm @albertcoro <br>
 💻 Fullstack Web Programer and Database Developer <br>
 📚 IT and Computing degree at <a href="https://www.udg.edu/ca/">UDG (Universitat de Girona)</a> <br>
-🌐 Currently working at <a href = "https://www.fundcraft.lu/">Fundcraft</a>, as a Backend Developer <br>
+🌐 Currently working at <a href = "https://www.hooba.com/">Hooba</a>, as a Backend Developer <br>
 📧 For bussiness inqueries contact me at: albertcorominasmariscot@gmail.com <br>
 
 <h3>What skills am I proficient in?</h3>
