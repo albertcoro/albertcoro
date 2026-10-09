@@ -1,44 +1,71 @@
-👋 Hi, I'm @albertcoro <br>
-💻 Fullstack Web Programer and Database Developer <br>
-📚 IT and Computing degree at <a href="https://www.udg.edu/ca/">UDG (Universitat de Girona)</a> <br>
-🌐 Currently working at <a href = "https://www.hooba.com/">Hooba</a>, as a Backend Developer <br>
-📧 For bussiness inqueries contact me at: albertcorominasmariscot@gmail.com <br>
+<div align="center">
 
-<h3>What skills am I proficient in?</h3>
+  <h1>👋 Hi, I'm Albert Corominas</h1>
+  <h3>💻 Fullstack & Database Developer | 🚀 Backend Developer at Hooba</h3>
 
-<h4>Frontend Development</h4>
-<div display="inline">
- <img src="https://brandslogos.com/wp-content/uploads/images/large/angular-icon-logo.png" height="70px" width="70px" alt="Angular JS" title="Angular JS">
- <img src="https://pluspng.com/img-png/nodejs-png-nodejs-icon-png-50-px-1600.png" height="70px" width="70px" alt="Node JS" title="Node JS">
- <img src="https://cdn.freebiesupply.com/logos/large/2x/spring-3-logo-svg-vector.svg" height="70px" width="70px" alt="Spring" title="Spring">
+  <p>
+    <b>IT & Computing Graduate</b> from <a href="https://www.udg.edu/ca/">UDG (Universitat de Girona)</a><br>
+    Currently crafting backend systems @ <a href="https://www.hooba.com/">Hooba</a>
+  </p>
+
+  <!-- Quick Badges / Contact -->
+  <a href="mailto:albertcorominasmariscot@gmail.com">
+    <img src="https://img.shields.io/badge/Email-albertcorominasmariscot%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/albertcoro">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+
 </div>
 
-<h4>Backend Development</h4>
-<div display="inline">
- <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" height=70px width=70px alt="Java" title="Java">
- <img src="https://iconape.com/wp-content/png_logo_vector/flutter-logo.png" height=70px width=70px alt="Flutter" title="Flutter">
- <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" height=70px width=70px alt="Python" title="Python">
+<hr />
+
+<div align="center">
+
+### 🛠️ Tech Stack & Skills
+
+#### **Frontend Development**
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+
+#### **Backend Development**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+#### **Database Management**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### **DevOps, Tools & Control**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![YouTrack](https://img.shields.io/badge/YouTrack-000000?style=for-the-badge&logo=youtrack&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
 </div>
 
-<h4>Database Management</h4>
-<div display="inline">
- <img src="https://user-images.githubusercontent.com/38464645/218829912-0b3f578d-7da5-49b8-8859-c9f886d4ca43.png" height=70px width=70px alt="MySQL" title="MySQL">
- <img src="https://user-images.githubusercontent.com/77457592/126708532-644c7a01-3bbd-4a0c-acd3-f5bcc0523854.png" height=70px width=70px alt="PostgreSQL" title="PostgreSQL">
- <img src="https://user-images.githubusercontent.com/38464645/218830232-63f4da96-6397-4e46-a6a8-ee292ebe86ad.png" height=70px width=70px alt="Redis" title="Redis">
- <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png" height=70px width=70px alt="MongoDB" title="MongoDB">
- <img src="https://cdn.freebiesupply.com/logos/large/2x/oracle-1-logo-png-transparent.png" height=70px width=70px alt="Oracle" title="Oracle">
+<hr />
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=albertcoro&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Albert's GitHub Stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=albertcoro&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="160" />
 </div>
 
-<h4>Version/Project Control</h4>
-<div display="inline">
- <img src="https://user-images.githubusercontent.com/38464645/218831913-042a0777-7722-4875-8360-ee4d6ab32614.png" height=70px width=70px alt="Git" title="Git">
- <img src="https://user-images.githubusercontent.com/38464645/218832391-8ea2e34f-50a5-45d2-83a5-5955663600b4.png" height=70px width=70px alt="YouTrack" title="YouTrack">
- <img src="https://user-images.githubusercontent.com/38464645/218832493-ab5e9c19-4019-4beb-843a-a83601aed440.png" height=70px width=70px alt="Jira" title="Jira">
-</div>
- 
-<h4>Other Skills</h4>
-<div display="inline">
- <img src="https://cdn.iconscout.com/icon/free/png-256/free-aws-1869025-1583149.png?f=webp" height=70px width=70px alt="AWS" title="AWS">
- <img src="https://w7.pngwing.com/pngs/380/11/png-transparent-latex-hd-logo.png" height=70px width=70px alt="Latex" title="Latex">
- <img src="https://cdn.freebiesupply.com/logos/thumbs/2x/leaflet-1-logo.png" height=70px width=70px alt="Leaflet" title="Leaflet">
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=albertcoro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
